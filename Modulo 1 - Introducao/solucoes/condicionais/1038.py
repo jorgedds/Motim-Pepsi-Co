@@ -20,3 +20,5 @@ elif codigo == 5:
     total = quantidade*1.5
     
 print(f'Total: R$ {total:.2f}')
+
+ 
